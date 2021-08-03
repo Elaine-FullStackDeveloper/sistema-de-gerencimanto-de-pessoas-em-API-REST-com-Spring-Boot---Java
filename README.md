@@ -1,7 +1,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
-# Desenvolvendo um sistema de gerencimanto de pessoas em API REST com Spring Boot - Java
+# Sistema de gerencimanto de pessoas em API REST com Spring Boot - Java
 
 - Projeto foi proposto pela Digital Innovation One - Bootcamp Everis New Talents - Java
 - Professor: Rodrigo Peleias
